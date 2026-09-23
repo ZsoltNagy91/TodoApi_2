@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoApi_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7320fbbe2ab3acdbb7fec89f1af6e4f4a2d1ad3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+223ce87aa60183aa2a5ae13c6693708ffff4b496")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoApi_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoApi_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,7 @@
 [
   {
-    "ContainingType": "TodoItemsController",
-    "Method": "GetTodoItem",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
+    "Method": "GetTodoItems",
     "RelativePath": "api/TodoItems",
     "HttpMethod": "GET",
     "IsController": true,
@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[TodoApi.Models.TodoItem, TodoApi_2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TodoApi.Models.TodoItemDTO, TodoApi_2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "PostTodoItem",
     "RelativePath": "api/TodoItems",
     "HttpMethod": "POST",
@@ -28,14 +28,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "todoitem",
-        "Type": "TodoApi.Models.TodoItem",
+        "Name": "todoDTO",
+        "Type": "TodoApi.Models.TodoItemDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "TodoApi.Models.TodoItem",
+        "Type": "TodoApi.Models.TodoItemDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "ContainingType": "TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "GetTodoItem",
     "RelativePath": "api/TodoItems/{id}",
     "HttpMethod": "GET",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "TodoApi.Models.TodoItem",
+        "Type": "TodoApi.Models.TodoItemDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "ContainingType": "TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "PutTodoItem",
     "RelativePath": "api/TodoItems/{id}",
     "HttpMethod": "PUT",
@@ -81,19 +81,19 @@
     "Parameters": [
       {
         "Name": "id",
-        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "System.Int64",
         "IsRequired": true
       },
       {
-        "Name": "todoitem",
-        "Type": "TodoApi.Models.TodoItem",
+        "Name": "todoDTO",
+        "Type": "TodoApi.Models.TodoItemDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TodoItemsController",
+    "ContainingType": "TodoApi.Controllers.TodoItemsController",
     "Method": "DeleteTodoItem",
     "RelativePath": "api/TodoItems/{id}",
     "HttpMethod": "DELETE",
@@ -102,7 +102,7 @@
     "Parameters": [
       {
         "Name": "id",
-        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "Type": "System.Int64",
         "IsRequired": true
       }
     ],

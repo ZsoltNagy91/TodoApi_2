@@ -34,3 +34,19 @@ Content-Type: application/json
 DELETE {{TodoApi_2_HostAddress}}/api/todoitems/1
 
 ###
+
+
+POST {{TodoApi_2_HostAddress}}/api/todoitems
+Content-Type: application/json
+
+{
+  "name": "secret test",
+    "isComplete": false,
+    "secret": "123456"
+}
+
+###
+
+GET {{TodoApi_2_HostAddress}}/api/todoitems/1
+
+###
