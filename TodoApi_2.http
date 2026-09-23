@@ -15,7 +15,7 @@ Content-Type: application/json
 
 ###
 
-GET {{TodoApi_2_HostAddress}}/api/todoitems
+GET {{TodoApi_2_HostAddress}}/api/todoitems/1
 
 ###
 
