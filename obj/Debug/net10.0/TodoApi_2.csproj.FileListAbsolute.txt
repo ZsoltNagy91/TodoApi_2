@@ -35,3 +35,4 @@ D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\TodoApi_2\obj\Debug
 D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\TodoApi_2\obj\Debug\net10.0\TodoApi_2.pdb
 D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\TodoApi_2\obj\Debug\net10.0\TodoApi_2.genruntimeconfig.cache
 D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\TodoApi_2\obj\Debug\net10.0\ref\TodoApi_2.dll
+D:\Informatika\5.félév\szerveroldali alkalmazások\Projekt\TodoApi_2\obj\Debug\net10.0\TodoApi_2.sourcelink.json
