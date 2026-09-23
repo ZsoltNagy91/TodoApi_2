@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|solutionrelative:todoapi_2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\todoapi_2\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\todoapi_2\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|solutionrelative:controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\todoapi_2\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|d:\\informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\projekt\\todoapi_2\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{128E5011-E1A6-FFAC-F085-B214912A486F}|TodoApi_2.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,38 +40,14 @@
               "RelativeDocumentMoniker": "TodoApi_2.http",
               "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\TodoApi_2.http",
               "RelativeToolTip": "TodoApi_2.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2026-09-23T17:46:10.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoItemsController.cs",
-              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Controllers\\TodoItemsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
-              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Controllers\\TodoItemsController.cs",
-              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T17:40:10.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T17:33:38.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "Models\\TodoContext.cs",
@@ -83,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "Models\\TodoItem.cs",
@@ -91,7 +67,32 @@
               "RelativeToolTip": "Models\\TodoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T17:29:24.537Z"
+              "WhenOpened": "2026-09-23T17:29:24.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:33:38.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoItemsController.cs",
+              "ToolTip": "D:\\Informatika\\5.f\u00E9l\u00E9v\\szerveroldali alkalmaz\u00E1sok\\Projekt\\TodoApi_2\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:40:10.411Z"
             }
           ]
         }
